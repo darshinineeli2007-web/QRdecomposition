@@ -49,8 +49,7 @@ print("The Q Matrix is\n",Q)
 print("The R Matrix is\n",R)
 ```
 ## Output
-
-<img width="1281" height="696" alt="image" src="https://github.com/user-attachments/assets/342e7d20-2f23-4c32-81de-03f51131ca9c" />
+<img width="1013" height="426" alt="image" src="https://github.com/user-attachments/assets/71eab75e-dfea-465a-a427-df524831b658" />
 
 ## Result
 
