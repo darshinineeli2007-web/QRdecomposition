@@ -64,4 +64,5 @@ print("The R Matrix is\n",R)
 
 
 ## Result
+
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
